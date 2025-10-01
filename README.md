@@ -20,7 +20,7 @@ It demonstrates data analysis and insights using Python and Jupyter Notebook.
 
 Click below to open the notebook in Google Colab and run it interactively:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranavb200/VOIS_AICTE_Oct2025_Pranav_B/blob/main/notebooks/main_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pranavb200/VOIS_AICTE_Oct2025_Pranav_B/blob/main/notebooks/Pranav_B_Airbnb_hotel_booking_analysis.ipynb)
 
 👉 Replace `notebooks/main_notebook.ipynb` in the link above with the **actual path and name** of your notebook inside this repo.
 
