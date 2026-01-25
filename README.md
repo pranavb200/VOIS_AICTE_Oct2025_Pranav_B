@@ -1,6 +1,5 @@
-# 🚀 VOIS AICTE Oct 2025 — Pranav B
+# 🚀 Airbnb-hotel-booking-analysis
 
-This is my project for the **VOIS AICTE October 2025** program.  
 It demonstrates data analysis and insights using Python and Jupyter Notebook.
 
 ---
@@ -40,6 +39,7 @@ Click below to open the notebook in Google Colab and run it interactively:
    ```bash
    git clone https://github.com/pranavb200/VOIS_AICTE_Oct2025_Pranav_B.git
    cd VOIS_AICTE_Oct2025_Pranav_B
+
 
 
 
